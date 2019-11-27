@@ -32,6 +32,9 @@ The iconic SVG, font, and CSS toolkit https://fontawesome.com
 
 <react><javascript>[create-react-app](https://create-react-app.dev) Set up a modern web app by running one command.
 
+![](./assets/icons/React.png)<img src="./assets/icons/Javascript.png" style="zoom:50%;" /><javascript>[create-react-app](https://create-react-app.dev) Set up a modern web app by running one command.
+
+
 ## Website Tool
 
 ## Docs Tool
