@@ -12,7 +12,7 @@
 
 ## Project Scaffolding Tool
 
-<img src="https://pic2.zhimg.com/v2-82c092e924194dd1a3d5ced82159553b_l.jpg" style="zoom:50%;" /><javascript>[create-react-app](https://create-react-app.dev) Set up a modern web app by running one command.
+<img src="https://pic2.zhimg.com/v2-82c092e924194dd1a3d5ced82159553b_l.jpg" style="width:24px;height:24px" /><javascript>[create-react-app](https://create-react-app.dev) Set up a modern web app by running one command.
 
 ## Website Tool
 
