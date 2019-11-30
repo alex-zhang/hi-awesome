@@ -26,7 +26,7 @@ The iconic SVG, font, and CSS toolkit https://fontawesome.com
 
 ## Http Client
 
-<javascript> [***axios***](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
+<./javascript> [***axios***](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
 
 ## Project Scaffolding Tool
 
